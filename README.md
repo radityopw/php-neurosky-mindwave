@@ -1,4 +1,4 @@
-phpmindwave
+php-neurosky-mindwave
 ===========
 
 PHP script working with a Neurosky MindWave
